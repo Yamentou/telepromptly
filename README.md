@@ -1,2 +1,2 @@
-# telepromptly
+# Telepromptly
 A simple teleprompter.
